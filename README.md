@@ -106,42 +106,6 @@ I work across software engineering, AI research, and data-driven applications.
 
 ---
 
-
-## Education
-
-My academic journey reflects my passion for technology, software engineering, and artificial intelligence.
-
-### 🎓 Aix-Marseille University (AMU)
-**Master 2 – Artificial Intelligence for Public Health (AI4PH)**  
-Marseille, France
-
-- Artificial Intelligence and Machine Learning
-- Public Health and Healthcare Analytics
-- Data Science and Research Methodology
-
-Website: https://www.univ-amu.fr
-
-### 🎓 Cambodia Academy of Digital Technology (CADT)
-**Master's Degree in Computer Science Specialization AI and  Data Science**  
-Phnom Penh, Cambodia
-
-- Software Engineering and Digital Technology
-- Artificial Intelligence and Data Science
-- Applied Research and Innovation
-
-Website: https://cadt.edu.kh
-
-### 🎓 Royal University of Phnom Penh (RUPP)
-**Bachelor's Degree in Computer Science**  
-Phnom Penh, Cambodia
-
-- [Your specialization]
-- [Relevant academic subjects]
-
-Website: https://www.rupp.edu.kh
-
----
-
 ## Currently Exploring
 
 - Multimodal AI for Healthcare
@@ -169,10 +133,6 @@ My approach combines:
 ## GitHub Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silakchhum&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silakchhum&layout=compact&hide_border=true&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=silakchhum&theme=default&hide_border=true)
 
